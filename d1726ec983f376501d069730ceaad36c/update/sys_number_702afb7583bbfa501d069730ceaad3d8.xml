@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1918526_iexpense_chola_finance_loan">x_1918526_iexpense_chola_finance_loan</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>CHO</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-24 07:38:49</sys_created_on>
+        <sys_id>702afb7583bbfa501d069730ceaad3d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CHO</sys_name>
+        <sys_package display_value="iExpense" source="x_1918526_iexpense">d1726ec983f376501d069730ceaad36c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iExpense">d1726ec983f376501d069730ceaad36c</sys_scope>
+        <sys_update_name>sys_number_702afb7583bbfa501d069730ceaad3d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-24 07:38:49</sys_updated_on>
+    </sys_number>
+</record_update>
