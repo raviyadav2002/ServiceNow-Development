@@ -24,7 +24,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_1918526_iexpense_iexpense_request_details" name="x_1918526_iexpense_iexpense_request_details" sys_domain="global" view="Default view">aab6ee05833776501d069730ceaad39f</sys_ui_form>
-            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1918526_iexpense_iexpense_request_details" sys_domain="global" view="Default view">62b6ee05833776501d069730ceaad39e</sys_ui_section>
+            <sys_ui_section caption="Claim Details" display_value="Claim Details" name="x_1918526_iexpense_iexpense_request_details" sys_domain="global" view="Default view">62b6ee05833776501d069730ceaad39e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-03-21 17:38:58</sys_updated_on>
         </sys_ui_form_section>

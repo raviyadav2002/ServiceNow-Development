@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-21 17:37:18</sys_created_on>
-            <sys_id>82562605833776501d069730ceaad33d</sys_id>
+            <sys_created_on>2026-05-19 10:27:29</sys_created_on>
+            <sys_id>5dc9b484830907501d069730ceaad37d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1918526_iexpense_iexpense_request_details" sys_domain="global" view="Default view">2363ae4d83f376501d069730ceaad310</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-21 17:37:18</sys_updated_on>
+            <sys_updated_on>2026-05-19 10:27:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>manager_name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-21 17:37:18</sys_created_on>
-            <sys_id>02562605833776501d069730ceaad33e</sys_id>
+            <sys_created_on>2026-05-19 10:27:29</sys_created_on>
+            <sys_id>15c9b484830907501d069730ceaad37f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1918526_iexpense_iexpense_request_details" sys_domain="global" view="Default view">2363ae4d83f376501d069730ceaad310</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-21 17:37:18</sys_updated_on>
+            <sys_updated_on>2026-05-19 10:27:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>summited_by</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-21 17:37:18</sys_created_on>
-            <sys_id>8e562605833776501d069730ceaad33e</sys_id>
+            <sys_created_on>2026-05-19 10:27:29</sys_created_on>
+            <sys_id>91c9b484830907501d069730ceaad380</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1918526_iexpense_iexpense_request_details" sys_domain="global" view="Default view">2363ae4d83f376501d069730ceaad310</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-21 17:37:18</sys_updated_on>
+            <sys_updated_on>2026-05-19 10:27:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-21 17:37:18</sys_created_on>
-            <sys_id>0e562605833776501d069730ceaad33f</sys_id>
+            <sys_created_on>2026-05-19 10:27:29</sys_created_on>
+            <sys_id>11c9b484830907501d069730ceaad381</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1918526_iexpense_iexpense_request_details" sys_domain="global" view="Default view">2363ae4d83f376501d069730ceaad310</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-21 17:37:18</sys_updated_on>
+            <sys_updated_on>2026-05-19 10:27:29</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>emp_name</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-21 17:37:18</sys_created_on>
-            <sys_id>8a562605833776501d069730ceaad340</sys_id>
+            <sys_created_on>2026-05-19 10:27:29</sys_created_on>
+            <sys_id>9dc9b484830907501d069730ceaad381</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1918526_iexpense_iexpense_request_details" sys_domain="global" view="Default view">2363ae4d83f376501d069730ceaad310</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-21 17:37:18</sys_updated_on>
+            <sys_updated_on>2026-05-19 10:27:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>department_name</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-21 17:37:18</sys_created_on>
-            <sys_id>0a562605833776501d069730ceaad341</sys_id>
+            <sys_created_on>2026-05-19 10:27:29</sys_created_on>
+            <sys_id>1dc9b484830907501d069730ceaad382</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1918526_iexpense_iexpense_request_details" sys_domain="global" view="Default view">2363ae4d83f376501d069730ceaad310</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-21 17:37:18</sys_updated_on>
+            <sys_updated_on>2026-05-19 10:27:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,27 +88,55 @@
             <element>type_of_iexpense</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-21 17:37:18</sys_created_on>
-            <sys_id>86562605833776501d069730ceaad342</sys_id>
+            <sys_created_on>2026-05-19 10:27:29</sys_created_on>
+            <sys_id>99c9b484830907501d069730ceaad383</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1918526_iexpense_iexpense_request_details" sys_domain="global" view="Default view">2363ae4d83f376501d069730ceaad310</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-21 17:37:18</sys_updated_on>
+            <sys_updated_on>2026-05-19 10:27:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-19 10:27:29</sys_created_on>
+            <sys_id>19c9b484830907501d069730ceaad384</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1918526_iexpense_iexpense_request_details" sys_domain="global" view="Default view">2363ae4d83f376501d069730ceaad310</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-19 10:27:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assignment_groups</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-04-06 11:37:04</sys_created_on>
-            <sys_id>ed5dab8e838083101d069730ceaad339</sys_id>
+            <sys_created_on>2026-05-19 10:27:29</sys_created_on>
+            <sys_id>95c9b484830907501d069730ceaad385</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1918526_iexpense_iexpense_request_details" sys_domain="global" view="Default view">2363ae4d83f376501d069730ceaad310</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-04-06 11:37:04</sys_updated_on>
+            <sys_updated_on>2026-05-19 10:27:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_amount_claimed</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-19 10:27:29</sys_created_on>
+            <sys_id>15c9b484830907501d069730ceaad386</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1918526_iexpense_iexpense_request_details" sys_domain="global" view="Default view">2363ae4d83f376501d069730ceaad310</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-19 10:27:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

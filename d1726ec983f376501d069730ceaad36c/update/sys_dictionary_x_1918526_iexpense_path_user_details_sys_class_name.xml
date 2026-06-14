@@ -19,7 +19,7 @@
         <display>false</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
-        <dynamic_default_value/>
+        <dynamic_default_value display_value="Get Current Table Name">b5cb83a85f220100a9ad2572f2b4773c</dynamic_default_value>
         <dynamic_ref_qual/>
         <element>sys_class_name</element>
         <element_reference>false</element_reference>
@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-30 13:25:06</sys_created_on>
-        <sys_id>2be24884834003101d069730ceaad3a6</sys_id>
         <sys_name>Class</sys_name>
         <sys_package display_value="iExpense" source="x_1918526_iexpense">d1726ec983f376501d069730ceaad36c</sys_package>
         <sys_policy/>
@@ -59,8 +58,8 @@
         <text_index>false</text_index>
         <unique>false</unique>
         <use_dependent_field>false</use_dependent_field>
-        <use_dynamic_default>false</use_dynamic_default>
-        <use_reference_qualifier/>
+        <use_dynamic_default>true</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
         <virtual_type/>
         <widget/>

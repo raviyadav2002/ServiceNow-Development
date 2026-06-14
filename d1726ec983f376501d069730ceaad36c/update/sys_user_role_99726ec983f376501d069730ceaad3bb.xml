@@ -4,7 +4,7 @@
         <can_delegate>true</can_delegate>
         <description>Support Team to process the iExpense</description>
         <elevated_privilege>false</elevated_privilege>
-        <federated_id/>
+        <federated_id>2CkosrG2cGtUZ7M4Ltw2zXrUURGVwIXwBDriTw5uToU=</federated_id>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_1918526_iexpense.support team</name>

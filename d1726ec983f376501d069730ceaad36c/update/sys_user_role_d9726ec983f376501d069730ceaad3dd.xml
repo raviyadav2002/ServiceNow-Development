@@ -4,7 +4,7 @@
         <can_delegate>true</can_delegate>
         <description>to employee who submit the iExpense</description>
         <elevated_privilege>false</elevated_privilege>
-        <federated_id/>
+        <federated_id>OehboquxKS6Faj24J8PgHOnntZ1fOguq4LgbGGJ8z1U=</federated_id>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_1918526_iexpense.employee_user</name>

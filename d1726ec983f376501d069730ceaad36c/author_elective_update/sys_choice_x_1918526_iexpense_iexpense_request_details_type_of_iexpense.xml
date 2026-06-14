@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2026-03-26 16:21:14</sys_created_on>
-            <sys_id>b4e4c872833b72901d069730ceaad3df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>type_of_iexpense</sys_name>
             <sys_package display_value="iExpense" source="x_1918526_iexpense">d1726ec983f376501d069730ceaad36c</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2026-03-26 16:21:14</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>bce4c872833b72901d069730ceaad3de</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-03-26 16:21:14</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2026-03-26 16:21:14</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3ce4c872833b72901d069730ceaad3e1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-03-26 16:21:14</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2026-03-26 16:21:14</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>b0e4c872833b72901d069730ceaad3e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-03-26 16:21:14</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2026-03-26 16:21:14</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>38e4c872833b72901d069730ceaad3e4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-03-26 16:21:14</sys_updated_on>
@@ -110,7 +105,6 @@
             <sys_created_on>2026-03-26 16:21:14</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>bce4c872833b72901d069730ceaad3e5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-03-26 16:21:14</sys_updated_on>

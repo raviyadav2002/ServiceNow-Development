@@ -6,6 +6,7 @@
         <auth_aig_client>false</auth_aig_client>
         <auth_code_lifespan>60</auth_code_lifespan>
         <auth_url/>
+        <bind_token_to_session>false</bind_token_to_session>
         <certificate_url/>
         <client_id>1624ac93b46221009eb8191f0e41680d</client_id>
         <client_secret>﷞﷟﷒311276ad83b37a501d069730ceaad386﷬﷔1﷬﷭A1iSzdB1gpAHL1mpiaO3zQ==VBXCyEj3jLA4i2_CHxGNOQdSOrQOepdzrRFQT707VoZMXlk_﷮﷯</client_secret>

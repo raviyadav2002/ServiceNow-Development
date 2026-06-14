@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2026-03-30 13:58:35</sys_created_on>
-            <sys_id>c69a0884838003101d069730ceaad3a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>type_of_iexpense</sys_name>
             <sys_package display_value="iExpense" source="x_1918526_iexpense">d1726ec983f376501d069730ceaad36c</sys_package>

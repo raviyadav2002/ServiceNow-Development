@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_1918526_iexpense_task_expense">x_1918526_iexpense_task_expense</category>
+        <maximum_digits>7</maximum_digits>
+        <number>100</number>
+        <prefix>TASK</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-06 11:26:56</sys_created_on>
+        <sys_id>890be34a838083101d069730ceaad3a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TASK</sys_name>
+        <sys_package display_value="iExpense" source="x_1918526_iexpense">d1726ec983f376501d069730ceaad36c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iExpense">d1726ec983f376501d069730ceaad36c</sys_scope>
+        <sys_update_name>sys_number_890be34a838083101d069730ceaad3a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-06 11:26:56</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="iExpense">d1726ec983f376501d069730ceaad36c</application>
+        <file_path/>
+        <instance_id>c78e893393ec2a50401cddd548373c3a</instance_id>
+        <instance_name>dev314745</instance_name>
+        <name>sys_number_890be34a838083101d069730ceaad3a8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_1918526_iexpense_task_expense">x_1918526_iexpense_task_expense</category><maximum_digits>7</maximum_digits><number>100</number><prefix>TASK</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-06 11:26:56</sys_created_on><sys_id>890be34a838083101d069730ceaad3a8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>TASK</sys_name><sys_package display_value="iExpense" source="x_1918526_iexpense">d1726ec983f376501d069730ceaad36c</sys_package><sys_policy/><sys_scope display_value="iExpense">d1726ec983f376501d069730ceaad36c</sys_scope><sys_update_name>sys_number_890be34a838083101d069730ceaad3a8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-06 11:26:56</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>111336338</payload_hash>
+        <record_name>TASK</record_name>
+        <reverted_from/>
+        <source>6f68fe07834c4b101d069730ceaad3e8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-06 11:26:56</sys_created_on>
+        <sys_id>4d0be34a838083101d069730ceaad3b3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>19d628bb5130000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-09 10:19:51</sys_updated_on>
+        <type>Number</type>
+        <update_guid>0d0be34aa7808310510f84a1145bedb2</update_guid>
+        <update_guid_history>0d0be34aa7808310510f84a1145bedb2:111336338</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-06 11:52:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>99524e316a174158a063c5e1ae22dde1</sys_id>
+        <sys_metadata>890be34a838083101d069730ceaad3a8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TASK</sys_name>
+        <sys_package display_value="iExpense" source="x_1918526_iexpense">d1726ec983f376501d069730ceaad36c</sys_package>
+        <sys_parent display_value="">cdda6f0a838083101d069730ceaad334</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="iExpense">d1726ec983f376501d069730ceaad36c</sys_scope>
+        <sys_scope_delete display_value="">93227df6a9984efea5d9eb682defbe64</sys_scope_delete>
+        <sys_update_name>sys_number_890be34a838083101d069730ceaad3a8</sys_update_name>
+        <sys_update_version display_value="sys_number_890be34a838083101d069730ceaad3a8">4d0be34a838083101d069730ceaad3b3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-06 11:52:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

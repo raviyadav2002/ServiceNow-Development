@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog">
+    <sc_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Fill Out a Form: Specify your travel dates, destination, and expected transport and accommodation costs before incurring expenses. Seek authorization from your manager.</description>
+        <desktop_continue_shopping/>
+        <desktop_home_page>Travel Expense Request</desktop_home_page>
+        <desktop_image/>
+        <editors/>
+        <enable_wish_list>false</enable_wish_list>
+        <manager display_value="Ravi Administrator">6816f79cc0a8016401c5a33be04be441</manager>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-10 08:58:10</sys_created_on>
+        <sys_id>19fe6b5383c00f101d069730ceaad319</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Travel Expense Request</sys_name>
+        <sys_package display_value="iExpense" source="x_1918526_iexpense">d1726ec983f376501d069730ceaad36c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iExpense">d1726ec983f376501d069730ceaad36c</sys_scope>
+        <sys_update_name>sc_catalog_19fe6b5383c00f101d069730ceaad319</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-10 08:58:10</sys_updated_on>
+        <title>Travel Expense Request</title>
+    </sc_catalog>
+    <sys_translated_text action="delete_multiple" query="documentkey=19fe6b5383c00f101d069730ceaad319"/>
+</record_update>
