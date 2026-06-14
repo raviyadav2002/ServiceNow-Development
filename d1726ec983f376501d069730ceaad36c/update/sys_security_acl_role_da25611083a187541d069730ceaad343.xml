@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-14 04:46:56</sys_created_on>
+        <sys_id>da25611083a187541d069730ceaad343</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1918526_iexpense_approvers.x_1918526_iexpense.employee_user</sys_name>
+        <sys_package display_value="iExpense" source="x_1918526_iexpense">d1726ec983f376501d069730ceaad36c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="iExpense">d1726ec983f376501d069730ceaad36c</sys_scope>
+        <sys_security_acl display_value="x_1918526_iexpense_approvers">5a25611083a187541d069730ceaad33e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_da25611083a187541d069730ceaad343</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-14 04:46:56</sys_updated_on>
+        <sys_user_role display_value="x_1918526_iexpense.employee_user" name="x_1918526_iexpense.employee_user">d9726ec983f376501d069730ceaad3dd</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
