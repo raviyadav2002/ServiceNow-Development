@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b2636e4d83f376501d069730ceaad320" label="iExpense request details" max_length="40" name="x_1918526_iexpense_iexpense_request_details" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="attachments" max_length="40" name="attachments" type="file_attachment"/>
+        <element label="Summited By" max_length="40" name="summited_by" type="string"/>
+        <element label="Department Name" max_length="50" name="department_name" type="string"/>
+        <element label="Amount" mandatory="true" max_length="38" name="amount" type="decimal"/>
+        <element label="approval" max_length="40" name="approval" type="radio"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element label="Submitted Date" max_length="40" name="submitted_date" type="glide_date"/>
+        <element label="Manager Name" max_length="40" name="manager_name" type="string"/>
+        <element label="Assignment groups" max_length="100" name="assignment_groups" type="string"/>
+        <element label="New Field 1" max_length="255" name="new_field_1" type="user_image"/>
+        <element label="Total Amount Claimed" mandatory="true" max_length="38" name="total_amount_claimed" type="decimal"/>
+        <element label="For Month" max_length="80" name="for_month" type="string"/>
+        <element choice="1" label="Type of iExpense" max_length="40" name="type_of_iexpense" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Miscellanece" sequence="3" value="miscellanece"/>
+                <element inactive_on_update="false" label="Out Station Travel" sequence="1" value="out_station_travel"/>
+                <element inactive_on_update="false" label="Local Conveyance" sequence="2" value="local_conveyance"/>
+                <element inactive_on_update="false" label="Meal Expense" sequence="0" value="meal_expense"/>
+                <element inactive_on_update="false" label="Petrol Reimbursment" sequence="4" value="petrol_reimbursment"/>
+            </choice>
+        </element>
+        <element label="Emp Name" max_length="100" name="emp_name" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0b0d984b835403501d069730ceaad3ac" extends="sys_import_set_row" label="April-load-data001" max_length="40" name="x_1918526_iexpense_april_load_data001" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Student Name" label="Student Name" max_length="40" name="u_student_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Class" label="Class" max_length="40" name="u_class" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=user_id" label="user_id" max_length="40" name="u_user_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Fee Paid" label="Fee Paid" max_length="40" name="u_fee_paid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Skills" label="Skills" max_length="40" name="u_skills" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Number" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Location" label="Location" max_length="40" name="u_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Admission Date" label="Admission Date" max_length="40" name="u_admission_date" type="glide_date_time"/>
+    </element>
+</database>

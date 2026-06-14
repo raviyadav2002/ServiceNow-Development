@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="type_of_expanse" label="Type of expanse" language="en" table="x_1918526_iexpense_expense_task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>type_of_expanse</element>
+            <help/>
+            <hint/>
+            <label>Type of expanse</label>
+            <language>en</language>
+            <name>x_1918526_iexpense_expense_task</name>
+            <plural>Type of expanses</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-06 11:57:21</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Type of expanse</sys_name>
+            <sys_package display_value="iExpense" source="x_1918526_iexpense">d1726ec983f376501d069730ceaad36c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="iExpense">d1726ec983f376501d069730ceaad36c</sys_scope>
+            <sys_update_name>sys_documentation_x_1918526_iexpense_expense_task_type_of_expanse_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-06 11:57:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
